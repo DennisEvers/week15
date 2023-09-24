@@ -1,0 +1,62 @@
+{
+  "sets": [
+    {
+      "lego": "AT-AT",
+      "count": "1267",
+      "owned": "Yes",
+      "id": 19
+    },
+    {
+      "lego": "Millenium Falcon",
+      "count": "1329",
+      "owned": "Yes",
+      "id": 20
+    },
+    {
+      "lego": "Disney  World 50th Castle",
+      "count": "567",
+      "owned": "Yes",
+      "id": 21
+    },
+    {
+      "lego": "Milano Gaurdians of the Galaxy",
+      "count": "665",
+      "owned": "Yes",
+      "id": 22
+    },
+    {
+      "lego": "Razor Crest",
+      "count": "6187",
+      "owned": "No",
+      "id": 23
+    },
+    {
+      "lego": "Mario Question Mark Box",
+      "count": "2064",
+      "owned": "No",
+      "id": 24
+    },
+    {
+      "lego": "Baby Yoda set",
+      "count": "1073",
+      "owned": "Yes",
+      "id": 25
+    },
+    {
+      "lego": "Indiana Jones Temple of Golden Idle",
+      "count": "1545",
+      "owned": "No",
+      "id": 26
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
